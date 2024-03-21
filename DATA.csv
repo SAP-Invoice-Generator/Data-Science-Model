@@ -1,0 +1,19 @@
+invoice_number,date,total amount,currency type,no of items,customer name
+ 2๐451, 10/20/2019, 15.73, USD, 2, Nyamdavaa
+ NULL, 05/12/2019 10:20 AM, 4.55, .55, 1, NULL
+ 24556^-HERE, 12/1/2019, 3042, NULL, NULL, NULL
+ 33399, Jul 17 2012, 860.38, $, 4, Adrian Hane
+ 11:596018, 04/13/209, 19., NULL, 2, mistieel
+ 123592, 20/10/2023, 695.00, INR, 6, NULL
+ 123592, 20/10/2022, 695.00, INR, 6, None
+ 04/13/209, 19., NULL, 3, mistieel,
+ INV/0007, 15/02/2022, 170.145, IDR, 1, Perum Prabowo Tbk
+ 123692, 2023-02-23, 695.0, INR, 10, null
+ Jun 5 2023, 0.00, $, NULL, NULL,
+ 30118, Aug 22 2012, 6637.37, $, 9, Adam Hart
+ INV/00007, 15/02/2022, 170.145, IDR, 1, Perum Prabowo Tbk
+ 5522887828, 2023-03-08, 200.0, USD, 4, you company name here
+ 1001, 25.03.2018, 609.30, EUR, 5, Max Musterfirma GmbH
+ 743, 30.11.2016, 98.50, Euro, 9, Max Musterman
+ ZFTEST-48, 03.01.2017, 114.70, EUR, 2, Trading Partner A
+ 123592, 20/10/2022, 695.00, INR, 6, null
