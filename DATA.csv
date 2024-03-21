@@ -17,3 +17,5 @@ invoice_number,date,total amount,currency type,no of items,customer name
  743, 30.11.2016, 98.50, Euro, 9, Max Musterman
  ZFTEST-48, 03.01.2017, 114.70, EUR, 2, Trading Partner A
  123592, 20/10/2022, 695.00, INR, 6, null
+INV004,2024-03-24,120.0,USD,6,Bob Smith
+INV005,2024-03-25,180.0,EUR,8,Emily Johnson
